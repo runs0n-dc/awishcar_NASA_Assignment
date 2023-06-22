@@ -59,3 +59,4 @@ async function fetchData(startDate, endDate) {
 
   return neoCountByDate;
 }
+
